@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CE008E24-90DA-4972-BBB2-7DABC4369538"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D07BD754-8B4D-4720-9395-305DBAEA003D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "payless/GradientView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "GradientView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D07BD754-8B4D-4720-9395-305DBAEA003D - 6d75c1803cd81603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "payless.GradientView.startColor.getter : __C.UIColor"
+                  moduleName = "payless"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertunver/Documents/payless/payless/GradientView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D07BD754-8B4D-4720-9395-305DBAEA003D - 4e039f9c68053217"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "payless.GradientView.startColor.setter : __C.UIColor"
+                  moduleName = "payless"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertunver/Documents/payless/payless/GradientView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "D07BD754-8B4D-4720-9395-305DBAEA003D - f4a19a6fe899ebfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "payless.GradientView.startColor.didset : __C.UIColor"
+                  moduleName = "payless"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertunver/Documents/payless/payless/GradientView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "D07BD754-8B4D-4720-9395-305DBAEA003D - a821bbf2ecce3f06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "payless.GradientView.startColor.modify : __C.UIColor"
+                  moduleName = "payless"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertunver/Documents/payless/payless/GradientView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D07BD754-8B4D-4720-9395-305DBAEA003D - 413277c4118dd17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "payless.GradientView.startColor.modify : __C.UIColor with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "payless"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertunver/Documents/payless/payless/GradientView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D07BD754-8B4D-4720-9395-305DBAEA003D - b8868b710cf5661b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "payless.GradientView.init(frame: __C.CGRect) -&gt; payless.GradientView"
+                  moduleName = "payless"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertunver/Documents/payless/payless/GradientView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "D07BD754-8B4D-4720-9395-305DBAEA003D - fb537a136cafd3c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "payless.GradientView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;payless.GradientView&gt;"
+                  moduleName = "payless"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertunver/Documents/payless/payless/GradientView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
